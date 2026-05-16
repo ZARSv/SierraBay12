@@ -15,8 +15,8 @@
 		"Sociologist",
 		"Off-Duty",
 		"Trainer",
-             "Union Representative",
-             "Librarian"
+               "Union Representative",
+               "Librarian"
 		)
 	outfit_type = /singleton/hierarchy/outfit/job/sierra/passenger/passenger
 	allowed_branches = list(/datum/mil_branch/employee, /datum/mil_branch/contractor, /datum/mil_branch/civilian)
